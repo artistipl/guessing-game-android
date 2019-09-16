@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gra zgadywanka</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_bar">Gra Zgadywanka</string>
+    <string name="type_only_1_to_100">Wpisz liczbę od 1 do 100:</string>
+    <string name="guess">Zgaduję!</string>
+    <string name="type_number">Wpisz liczbę i kliknij przycisk Zgaduję!</string>
+    <string name="play_again">Zagraj ponownie!</string>
+    <string name="too_big">"Liczba " + guessInt + " jest wyższa od mojej."</string>
+</resources>
